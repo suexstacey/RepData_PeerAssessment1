@@ -159,7 +159,7 @@ in GitHub by doing the following:
 
 3. You will see a list of commits that you have made to this repository. The most recent commit is at the very top. If this represents the version of the files you want to submit, then just click the "copy to clipboard" button on the right hand side that should appear when you hover over the SHA-1 hash. Paste this SHA-1 hash into the course web site when you submit your assignment. If you don't want to use the most recent commit, then go down and find the commit you want and copy the SHA-1 hash.
 
-A valid submission will look something like (this is just an **example**!)
+A valid submission will look something like (this is just an **example**!) 
 
 ```r
 https://github.com/rdpeng/RepData_PeerAssessment1
